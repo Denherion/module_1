@@ -8,6 +8,3 @@ while elem < len(my_list):
     elem += 1
     if my_list[elem] < -1:
         break
-
-
-
